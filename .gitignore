@@ -100,3 +100,6 @@ InitTestScene*.unity*
 
 # OS Files
 **/.DS_Store
+
+# Unity Asset Store Downloads
+/[Aa]ssets/Dungeon Crawler 2D Art Pack/
